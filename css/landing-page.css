@@ -175,6 +175,12 @@ p.copyright {
   border-radius: 50%;
 }
 
+.profimg-big {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
+
 .row-centered {
   text-align: center;
 }
