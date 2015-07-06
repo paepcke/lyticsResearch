@@ -116,7 +116,13 @@ h6 {
 .banner {
     padding: 100px 0;
     color: #f8f8f8;
-    background: url(../img/outside.JPG) no-repeat center center;
+    opacity: 0.8;
+    background:
+      linear-gradient(
+        rgba(0,0,0,0.6),
+        rgba(0,0,0,0.6)
+        ),
+      url(../img/barnum.jpeg) no-repeat center center;
     background-size: cover;
 }
 
